@@ -1,6 +1,6 @@
 # BuildToolsInstall
 
-Azure CLI VM Scale Set CustomScriptExtensions:
+Azure CLI VM Scale Set CustomScriptExtension Command:
 
 bash
 ```bash

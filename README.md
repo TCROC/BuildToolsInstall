@@ -4,7 +4,7 @@ VM Scale Set CustomScriptExtension Command:
 
 bash Azure CLI 
 
-**Note: At the time of creating this, CustomScriptExtension 1.10 would not install the software. Falling back to 1.9 works.**
+**Note: At the time of creating this, version 1.10 would not install the software. Falling back to version 1.9 works.**
 
 ```bash
 az vmss extension set \

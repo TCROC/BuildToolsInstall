@@ -1,8 +1,11 @@
 # BuildToolsInstall
 
-Azure CLI VM Scale Set CustomScriptExtension Command:
+VM Scale Set CustomScriptExtension Command:
 
-bash
+bash Azure CLI 
+
+**Note: At the time of creating this, CustomScriptExtension 1.10 would not install the software. Falling back to 1.9 works.**
+
 ```bash
 az vmss extension set \
 --vmss-name vmssagentspoolwindows \
